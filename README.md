@@ -1,5 +1,6 @@
 # Color Picker Extension
 
+A simple Chrome extension that allows users to pick colors from web pages using a browser action popup.
 
 ![Screenshot 2024-03-22 153416](https://github.com/yogi0808/color-picker-extension/assets/148646093/ca80443f-41c0-49ec-a5be-eb784eef2938)
 
